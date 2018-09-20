@@ -1,0 +1,10 @@
+R
+.local
+.julia
+node_modules
+.pip
+.cache
+.config
+.*
+*.hdf5
+data
