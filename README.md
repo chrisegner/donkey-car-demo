@@ -1,3 +1,6 @@
+# Credit
+Thanks to https://github.com/wroscoe/donkey for sharing this.  I've adapted it lightly.
+
 # Getting Started with Python
 
 To install, first run:
